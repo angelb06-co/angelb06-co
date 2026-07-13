@@ -1,16 +1,72 @@
-## Hi there 👋
+Hi, I'm Angel B
+Electronics and Communication Engineering Student | Aspiring Embedded Systems & IoT Engineer
 
-<!--
-**angelb06-co/angelb06-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student passionate about Embedded Systems, Internet of Things (IoT), and C Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building hardware-based solutions that solve real-world problems and continuously improve my technical skills through projects and hands-on learning. My goal is to build a career as an Embedded Systems Engineer or IoT Engineer, where I can contribute to innovative and practical technology.
+
+Education:
+
+B.E. Electronics and Communication Engineering  
+Sri Ramakrishna Engineering College  
+2023 – 2027
+
+Currently Learning:
+
+- Data Structures & Algorithms
+- Git & GitHub
+- Advanced C Programming
+- Embedded Systems
+
+Skills:
+
+Programming:
+• C
+
+Embedded Technologies:
+• Embedded Systems
+• ESP32
+• Internet of Things (IoT)
+
+Tools:
+• MATLAB
+• Git
+• GitHub
+
+Projects:
+
+Underground Communication and Monitoring Beyond Networks:
+
+Developed a communication and monitoring system for underground environments where traditional networks are unreliable. The system improves worker safety by enabling communication, monitoring, and location tracking during emergency situations.
+
+Smart Interaction-Based Access Control System:
+
+Designed an NFC-based hostel access control system that enhances security using secure authentication, parental approval, and real-time notifications. The system automates entry monitoring while improving student safety and accountability.
+
+Internship:
+
+VTronics Automation
+Embedded Systems Intern
+
+December 2024 – January 2025
+
+Worked on the development of a display interface for a Pocket Creasing Machine used in industrial automation. Gained practical experience in embedded systems, industrial workflows, hardware integration, and real-world engineering practices.
+
+Career Objective:
+
+Seeking opportunities as an Embedded Systems Engineer or IoT Engineer, where I can apply my technical knowledge, continue learning, and contribute to innovative engineering solutions.
+
+Connect with Me:
+
+Email  
+bangel29106@gmail.com
+
+LinkedIn  
+https://www.linkedin.com/in/angel-b-ece/
+
+LeetCode  
+https://leetcode.com/u/Angelbasker_15/
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
