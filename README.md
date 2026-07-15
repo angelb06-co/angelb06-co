@@ -23,15 +23,15 @@ Sri Ramakrishna Engineering College
 💻 Skills
 
 Programming
-• C
+- C
 
 Embedded Technologies
-• Embedded Systems
-• ESP32
-• Internet of Things (IoT)
+- Embedded Systems
+- ESP32
+- Internet of Things (IoT)
 
 Tools
-• MATLAB
+- MATLAB
 
 🚀 Projects
 
